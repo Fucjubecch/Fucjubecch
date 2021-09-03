@@ -8,3 +8,4 @@
 Fucjubecch/Fucjubecch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://replit.com/@jattpawan/UstadOp?__cf_chl_jschl_tk__=pmd_13ce69f017b27dc0d2261fd4dc42fc608e98edfc-1629116869-0-gqNtZGzNAeKjcnBszQgO#main.py
